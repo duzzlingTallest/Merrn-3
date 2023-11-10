@@ -1,0 +1,10 @@
+/* Assuming you have a CSS file where you define your styles */
+.full-width-slider {
+    width: 100vw; /* Make the slider container full width of the viewport */
+    margin: 0; /* Remove any default margin */
+    padding: 0; /* Remove any default padding */
+  }
+  
+  .single-homepage-slider {
+    width: 100%; /* Make each slide full width within the slider container */
+  }

@@ -1,0 +1,22 @@
+a {
+  text-decoration: "none";
+}
+
+/* Add your styles here */
+
+.static-nav {
+  background-color: transparent;
+  color: #fff;
+  padding: 20px 0;
+  position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1000;
+  transition: background-color 0.3s ease-in-out;
+}
+
+/* Add any other styles for your navigation bar */
+
+.active {
+  color: #e68023 !important;
+}
